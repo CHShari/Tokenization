@@ -1,0 +1,2 @@
+python-dotenv
+transformers>=4.46.1
